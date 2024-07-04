@@ -1,4 +1,3 @@
-
 // ./task_1/main.ts
 
 // Define the Teacher interface
